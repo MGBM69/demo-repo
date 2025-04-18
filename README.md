@@ -7,3 +7,6 @@ Watch Tutorial on YouTube.
 
 
 Updated version
+
+## Local Development
+Open index.html inyour browser.
